@@ -1,0 +1,11 @@
+.project
+.classpath
+*.equ
+*.xlsx
+*.txt
+*.trc
+*.phd
+target/
+.vscode/
+.settings/
+.project
